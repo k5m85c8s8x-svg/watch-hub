@@ -1,0 +1,9 @@
+[
+  {
+    "model": "Model X",
+    "version": "1.0.0",
+    "status": "stable",
+    "description": "Первая стабильная версия",
+    "download": "GITHUB_RELEASE_LINK"
+  }
+]
