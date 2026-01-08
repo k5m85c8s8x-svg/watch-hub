@@ -1,0 +1,21 @@
+{
+  "project": "Watch Hub",
+  "version": "1.0",
+  "sections": [
+    {
+      "id": "watchfaces",
+      "title": "Циферблаты",
+      "description": "Каталог циферблатов"
+    },
+    {
+      "id": "firmware",
+      "title": "Прошивки",
+      "description": "Официальные и кастомные прошивки"
+    },
+    {
+      "id": "faq",
+      "title": "FAQ",
+      "description": "Частые вопросы и решения"
+    }
+  ]
+}
