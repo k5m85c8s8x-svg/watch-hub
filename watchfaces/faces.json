@@ -1,8 +1,14 @@
 [
   {
     "name": "Classic Black",
-    "model": "Model X",
-    "preview": "IMAGE_LINK",
-    "download": "FILE_LINK"
+    "model": "Huawei Watch GT 3",
+    "preview": "https://link-to-image.jpg",
+    "download": "https://link-to-file"
+  },
+  {
+    "name": "Sport Neon",
+    "model": "Huawei Watch GT 4",
+    "preview": "https://link-to-image.jpg",
+    "download": "https://link-to-file"
   }
 ]
