@@ -1,9 +1,18 @@
 [
   {
-    "model": "Model X",
-    "version": "1.0.0",
+    "model": "Huawei Watch GT 3",
+    "version": "2.1.0",
     "status": "stable",
-    "description": "Первая стабильная версия",
-    "download": "GITHUB_RELEASE_LINK"
+    "description": "Повышена стабильность и автономность",
+    "warning": "Не выключайте часы во время обновления",
+    "download": "https://github.com/..."
+  },
+  {
+    "model": "Huawei Watch GT 4",
+    "version": "2.2.0-beta",
+    "status": "beta",
+    "description": "Тестовая версия",
+    "warning": "Бета-прошивка. Возможны ошибки.",
+    "download": "https://github.com/..."
   }
 ]
